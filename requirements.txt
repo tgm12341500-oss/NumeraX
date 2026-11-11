@@ -1,0 +1,7 @@
+# Equation Solver - Required Python Libraries
+
+# Numerical operations and matrix calculations
+numpy>=2.1.0
+
+# Symbolic mathematics and equation processing
+sympy>=1.13.0
