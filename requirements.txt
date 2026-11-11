@@ -5,3 +5,5 @@ numpy>=2.1.0
 
 # Symbolic mathematics and equation processing
 sympy>=1.13.0
+# Web application framework
+streamlit>=1.36.0
